@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+}
+
+.article{
+    background-color: rgb(185, 255, 248);
+    width: 400px;
+    text-align: center;
+}
+
+.article > .summary{
+    color: rgb(255, 1, 1);
+}
+
+.article > .info{
+    color: orange;
+}
+
+.article h2{
+    font-size: 35px;
+    color: blue;
+}
+div{
+    align-items: center;
+}
