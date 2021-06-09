@@ -1,0 +1,18 @@
+
+div {
+
+    border-style: groove;
+
+}
+
+#third > p{
+    display: none;
+ }
+
+h1{
+    display: none;
+}
+
+#second {
+    display: none;
+}
